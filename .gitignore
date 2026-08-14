@@ -1,0 +1,10 @@
+# Dataset/
+# __pycache__/
+.venv/
+# ETTh1.csv
+# data/
+# results/
+# project2/results/
+project1
+project2
+project3
